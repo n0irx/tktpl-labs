@@ -1,4 +1,4 @@
-package com.example.helloworld
+package id.ac.ui.cs.mobileprogramming.helloworld
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
